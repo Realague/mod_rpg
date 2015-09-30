@@ -36,6 +36,7 @@ public class ModBlocks {
 	
 	public static void createBlocks() {
 		GameRegistry.registerBlock(roof_oak = new BlockRoof(Blocks.log.getDefaultState(),"roof_oak"), "roof_oak");
+		GameRegistry.registerBlock(test = new BlockDirectionnalCustom(Material.wood,"test"), "test");
 	
 		
 		GameRegistry.registerBlock(copper_ore = new BlockOreCustom("copper_ore", 1).setResistance(3.0F), "copper_ore");  	

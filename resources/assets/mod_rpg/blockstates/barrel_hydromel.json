@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "levels=0": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=1": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=2": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=3": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=4": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=5": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=6": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=7": { "model": "mod_rpg:barrel_hydromel" },
+		"levels=8": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=9": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=10": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=11": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=12": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=13": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=14": { "model": "mod_rpg:barrel_hydromel" },
+        "levels=15": { "model": "mod_rpg:barrel_hydromel" },
+		"levels=16": { "model": "mod_rpg:barrel_hydromel" }
+    }
+}

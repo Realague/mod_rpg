@@ -1,0 +1,282 @@
+<en_US.lang - English localization file for the mod "RealagueMod">
+
+item.copper_ingot.name=Lingot de cuivre
+item.tin_ingot.name=Lingot d'etain
+item.copper_pickaxe.name=Pioche en cuivre
+item.copper_sword.name=Epee en cuivre
+item.copper_shovel.name=Pelle en cuivre
+item.copper_hoe.name=Hoe en cuivre
+item.copper_axe.name=Hache en cuivre
+item.bronze_ingot.name=Lingot de bronze
+item.steel_ingot.name=Lingot d'acier
+item.mithril_ingot.name=Lingot de mithril
+item.obsidian_ore .name=mineraie d'obsidienne
+item.obsidian_ingot .name=Lingot d'obsidienne
+
+item.cloute.name=cloute
+
+item.bronze_helmet.name=Casque en bronze
+item.bronze_chestplate.name=Plastron en bronze
+item.bronze_leggins.name=Greves de bronze
+item.bronze_boots.name=Bottes en bronze
+
+item.mithril_helmet.name=Casque en mithril
+item.mithril_chestplate.name=Plastron en mithril
+item.mithril_leggins.name=Greves de mithril
+item.mithril_boots.name=Bottes en mithril
+
+item.donavis.name=Donavis
+
+item.steel_helmet.name=Casque en acier
+item.steel_chestplate.name=Plastron en acier
+item.steel_leggins.name=Greves de acier
+item.steel_boots.name=Bottes en acier
+
+item.ebene_helmet.name=Casque en ebene
+item.ebene_chestplate.name=Plastron en ebene
+item.ebene_leggins.name=Greves de ebene
+item.ebene_boots.name=Bottes en ebene
+
+item.obsidian_helmet.name=Casque en obsidienne
+item.obsidian_chestplate.name=Plastron en obsidienne
+item.obsidian_leggins.name=Greves d'obsidienne
+item.obsidian_boots .name=Bottes en obsidienne
+
+item.cloute_helmet.name=Casque en obsidienne
+item.cloute_chestplate.name=Plastron en obsidienne
+item.cloute_leggins.name=Greves d'obsidienne
+item.cloute_boots .name=Bottes en obsidienne
+
+item.copper_helmet.name=Casque en obsidienne
+item.copper_chestplate.name=Plastron en obsidienne
+item.copper_leggins.name=Greves d'obsidienne
+item.copper_boots.name=Bottes en obsidienne
+
+item.gold_saw.name=Scie en or
+item.iron_saw.name=Scie en fer
+item.diamond_saw.name=Scie en diamant
+item.rock.name=Roche
+
+//nugget
+
+item.copper_nugget.name=Casque en obsidienne
+item.iron_nugget.name=Plastron en obsidienne
+item.tin_nugget.name=Greves d'obsidienne
+item.mithril_nugget.name=Bottes en obsidienne
+
+item.gold_nugget_custom.name=Pepite d'or
+item.tin_nugget.name=pepite d'etain
+item.mithril_nugget.name=Pepite de mithril
+
+
+item.clay_mold.name=Moule en argile
+item.rock_mold.name=Moule en pierre
+item.mithril_ingot_mold.name=Moule de l'ingot de mithril
+item.iron_ingot_mold.name=Moule de l'ingot de fer
+
+item.gold_ingot_mold.name=Moule de l'ingot d'or
+item.copper_ingot_mold.name=Moule de l'ingot de cuivre
+item.hammer.name=Marteau
+item.hammer_burin.name=Marteau et burin
+
+item.diamond_brut.name=Diamant brut
+item.lapis_brut.name=Lapis lazuli brut
+item.emerald_brut.name=Emeraude brut
+
+item.diamond_part.name=Mineraie de diamant
+item.redstone_brut.name=Mineraie de pierre rouge
+item.axe_butcher.name=Hache de boucher
+item.knife_butcher.name=Couteau de boucher
+
+item.adamantine_nugget.name=Pepite d'adamantine
+item.adamantine_ingot.name=Lingot d'adamantine
+item.adamantine_ingot_mold.name=Moule de l'ingot d'adamantine
+
+item.adamantine_helmet.name=Casque en adamantine
+item.adamantine_chestplate.name=Plastron en adamantine
+item.adamantine_boots.name=Bottes en adamantine
+item.adamantine_leggins.name=Greve en adamantine
+
+item.pilon.name=Pilon
+
+//new things whatever
+item.leather_hoe_stone.name=Bèche en pierre
+item.leather_hoe_mithril.name=Bèche en mithril
+item.leather_hoe_iron.name=Beche en fer
+item.iron_hoe_iron.name=Beche en fer
+item.leather_hoe_gold.name=Beche en or
+item.iron_hoe_gold.name=Beche en or
+item.leather_hoe_diamond.name=Beche en diamant
+item.iron_hoe_diamond.name=Beche en diamant
+item.bronze_hoe_diamond.name=Beche en diamant
+item.iron_hoe_bronze.name=Beche en bronze
+item.wood_hoe_stone.name=Beche en pierre
+item.wood_hoe_iron.name=Beche en fer
+item.wood_hoe_gold.name=Beche en or
+item.wood_hoe_diamond.name=Beche en diamant
+item.wood_hoe_bronze.name=Beche en bronze
+item.wood_hoe_mithril.name=Beche en mithril
+item.bronze_hoe_bronze.name=Beche en bronze
+item.iron_hoe_mithril.name=Beche en mithril
+item.bronze_hoe_mithril.name=Beche en mithril
+
+item.leather_pickaxe_stone.name=Pioche en pierre
+item.leather_pickaxe_mithril.name=Pioche en mithril
+item.leather_pickaxe_iron.name=Pioche en fer
+item.iron_pickaxe_iron.name=Pioche en fer
+item.leather_pickaxe_gold.name=Pioche en or
+item.iron_pickaxe_gold.name=Pioche en or
+item.leather_pickaxe_diamond.name=Pioche en diamant
+item.iron_pickaxe_diamond.name=Pioche en diamant
+item.bronze_pickaxe_diamond.name=Pioche en diamant
+item.iron_pickaxe_bronze.name=Pioche en bronze
+item.wood_pickaxe_stone.name=Pioche en pierre
+item.wood_pickaxe_iron.name=Pioche en fer
+item.wood_pickaxe_gold.name=Pioche en or
+item.wood_pickaxe_diamond.name=Pioche en diamant
+item.wood_pickaxe_bronze.name=Pioche en bronze
+item.wood_pickaxe_mithril.name=Pioche en mithril
+item.bronze_pickaxe_bronze.name=Pioche en bronze
+item.iron_pickaxe_mithril.name=Pioche en mithril
+item.bronze_pickaxe_mithril.name=Pioche en mithril
+
+item.leather_shovel_stone.name=Pioche en pierre
+item.leather_shovel_mithril.name=Pioche en mithril
+item.leather_shovel_iron.name=Pioche en fer
+item.iron_shovel_iron.name=Pioche en fer
+item.leather_shovel_gold.name=Pioche en or
+item.iron_shovel_gold.name=Pioche en or
+item.leather_shovel_diamond.name=Pioche en diamant
+item.iron_shovel_diamond.name=Pioche en diamant
+item.bronze_shovel_diamond.name=Pioche en diamant
+item.iron_shovel_bronze.name=Pioche en bronze
+item.wood_shovel_stone.name=Pioche en pierre
+item.wood_shovel_iron.name=Pioche en fer
+item.wood_shovel_gold.name=Pioche en or
+item.wood_shovel_diamond.name=Pioche en diamant
+item.wood_shovel_bronze.name=Pioche en bronze
+item.wood_shovel_mithril.name=Pioche en mithril
+item.bronze_shovel_bronze.name=Pioche en bronze
+item.iron_shovel_mithril.name=Pioche en mithril
+item.bronze_shovel_mithril.name=Pioche en mithril
+
+item.leather_axe_stone.name=Pioche en pierre
+item.leather_axe_mithril.name=Pioche en mithril
+item.leather_axe_iron.name=Pioche en fer
+item.iron_axe_iron.name=Pioche en fer
+item.leather_axe_gold.name=Pioche en or
+item.iron_axe_gold.name=Pioche en or
+item.leather_axe_diamond.name=Pioche en diamant
+item.iron_axe_diamond.name=Pioche en diamant
+item.bronze_axe_diamond.name=Pioche en diamant
+item.iron_axe_bronze.name=Pioche en bronze
+item.wood_axe_stone.name=Pioche en pierre
+item.wood_axe_iron.name=Pioche en fer
+item.wood_axe_gold.name=Pioche en or
+item.wood_axe_diamond.name=Pioche en diamant
+item.wood_axe_bronze.name=Pioche en bronze
+item.wood_axe_mithril.name=Pioche en mithril
+item.bronze_axe_bronze.name=Pioche en bronze
+item.iron_axe_mithril.name=Pioche en mithril
+item.bronze_axe_mithril.name=Pioche en mithril
+
+item.garde_leather.name=Garde en cuir
+item.garde_stone.name=Garde en pierre
+item.garde_iron.name=Garde en fer
+item.garde_mithril.name=Garde en mithril
+item.garde_obsidian.name=Pepite d'adamantine
+item.garde_bronze.name=Lingot d'adamantine
+
+item.blade_stone.name=Lame en pierre
+item.blade_iron.name=Lame en fer
+item.blade_gold.name=Lame en or
+item.blade_diamond.name=Lame en diamant
+item.blade_bronze.name=Lame en bronze
+item.blade_mithril.name=Lame en mithril
+
+item.manche_wood.name=Manche en bois
+item.manche_stone.name=Manche en pierre
+item.manche_iron.name=Manche en fer
+item.manche_mithril.name=Manche en mithril
+item.manche_obsidian.name=Manche en obsienne
+item.manche_steel.name=Manche en acier
+item.manche_leather.name=Manche en cuir
+
+item.head_hoe_stone.name=Tete de beche en pierre
+item.head_hoe_gold.name=Tete de beche en or
+item.head_hoe_iron.name=Tete de beche en fer
+item.head_hoe_mithril.name=Tete de beche en mithril
+item.head_hoe_diamond.name=Tete de beche en diamant
+item.head_hoe_obsidian.name=Tete de beche en obsidienne
+
+item.head_shovel_stone.name=Tete de pelle en pierre
+item.head_shovel_gold.name=Tete de pelle en or
+item.head_shovel_iron.name=Tete de pelle en fer
+item.head_shovel_mithril.name=Tete de pelle en mithril
+item.head_shovel_diamond.name=Tete de pelle en diamant
+item.head_shovel_obsidian.name=Tete de pelle en obsidienne
+
+item.head_axe_stone.name=Tete de hache en pierre
+item.head_axe_iron.name=Tete de hache en fer
+item.head_axe_mithril.name=tete de hache en mithril
+item.head_axe_gold.name=Tete de hache en or
+item.head_axe_diamond.name=Tete de hache en diamant
+item.head_axe_obsidsian.name=Tete de hache en obsidienne
+
+item.leather_sword_stone.name=Epee en pierre
+item.leather_sword_iron.name=Epee en fer
+item.iron_sword_iron.name=Epee en fer
+item.leather_sword_gold.name=Epee en or
+item.iron_sword_gold.name=Epee en or
+item.leather_sword_diamond.name=Epee en diamant
+item.iron_sword_diamond.name=Epee en diamant
+item.bronze_sword_diamond.name=Epee en diamant
+item.leather_sword_bronze.name=Epee en bronze
+item.iron_sword_bronze.name=Epee en bronze
+item.wood_sword_iron.name=Epee en fer
+item.wood_sword_gold.name=Epee en or
+item.wood_sword_diamond.name=Epee en diamant
+item.wood_sword_bronze.name=Epee en bronze
+item.wood_sword_mithril.name=Epee en mithril
+item.leather_sword_mithril.name=Epee en mithril
+item.bronze_sword_bronze.name=Epee en bronze
+item.iron_sword_mithril.name=Epee en mithril
+item.bronze_sword_mithril.name=Epee en mithril
+
+item.head_axe_iron.name=Greve en adamantine
+item.head_axe_mithril.name=Casque en adamantine
+item.head_axe_gold.name=Plastron en adamantine
+item.head_axe_diamond.name=Plastron en adamantine
+item.head_axe_obsidsian.name=Plastron en adamantine
+item.head_axe_stone.name=Greve en adamantine
+item.head_axe_iron.name=Greve en adamantine
+item.head_axe_mithril.name=Casque en adamantine
+item.head_axe_gold.name=Plastron en adamantine
+item.head_axe_diamond.name=Plastron en adamantine
+item.head_axe_obsidsian.name=Plastron en adamantine
+
+item.plate_iron.name=Plaque de fer
+item.plate_gold.name=Plaque d'or
+item.plate_bronze.name=Plaque de bronze
+item.plate_mithril.name=Plaque de mithril
+item.plate_adamantine.name=Plaque d'adamantine
+item.plate_steel.name=Plaque d'acier
+item.plate_obsidian.name=Plaque d'obsidienne
+item.plate_ebene.name=Plaque d'ebene
+
+//block
+
+tile.barrel_beer.name=Tonneau de biere
+tile.barrel_vine.name=Tonneau de vin
+tile.barrel_rhum.name=Tonneau de rhum
+tile.barrel_hydromel.name=Tonneau d'hydromel
+tile.bush_blueberry_simple.name=Mineraie d'emeraude
+tile.bush_raspberry_simple.name=Mineraie d'or
+tile.bush_strawberry_simple.name=Mineraie de cuivre
+
+tile.copper_ore.name=Mineraie de cuivre
+tile.tin_ore.name=Mineraie de d'etain
+tile.mithril_ore.name=Mineraie de mithril
+tile.adamantine_ore.name=Mineraie d'adamantine
+
+

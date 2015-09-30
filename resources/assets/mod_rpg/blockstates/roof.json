@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"type=oak": { "model":"mod_rpg:roof_oak" },
+		"type=hay": { "model":"mod_rpg:roof_hay" }
+	}
+}

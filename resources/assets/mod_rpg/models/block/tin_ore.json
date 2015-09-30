@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "realaguemod:blocks/tin_ore"
+    }
+}
